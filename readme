@@ -1,0 +1,23 @@
+FMCG Distribution & Sales Analytics | Power BI, SQL, Excel
+
+Developed an end-to-end FMCG Sales & Distribution Analytics solution to monitor sales performance, distributor efficiency, inventory management, and delivery operations. Built interactive Power BI dashboards using a star schema data model and DAX measures to provide actionable business insights.
+
+Key Features
+Analyzed 20,000+ sales transactions across multiple distributors and products.
+Designed a Star Schema data model for efficient reporting and analysis.
+Created Executive, Sales, Distributor, Product, and Inventory dashboards.
+Developed KPIs including Total Sales, Quantity Sold, Target Achievement %, Delivery Rate %, and Sales Growth.
+Performed distributor performance analysis and product category evaluation.
+Implemented Power Query transformations for data cleaning and preparation.
+Created DAX measures for advanced business calculations and trend analysis.
+Generated actionable insights to improve sales performance and operational efficiency.
+Tools & Technologies
+Power BI
+SQL
+Excel
+DAX
+Power Query
+Data Modeling
+Business Impact
+
+The dashboard enables management to track sales performance, identify high-performing distributors, monitor delivery efficiency, optimize inventory levels, and make data-driven business decisions
